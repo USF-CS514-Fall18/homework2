@@ -2,7 +2,7 @@
 Due on Wednesday, September 5 by 11:59pm
 
 Use the following link to to create your private github repository for this assignment: 
-[homework2]()
+https://classroom.github.com/a/8eMCFEGl
 
 The repository will be seeded with the skeleton code, test cases, and documentation files.
 
