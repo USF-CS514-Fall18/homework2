@@ -1,6 +1,5 @@
 # Homework2
 Due on Wednesday, September 5 by 11:59pm
-40 points
 
 Use the following link to to create your private github repository for this assignment: 
 [homework2]()
